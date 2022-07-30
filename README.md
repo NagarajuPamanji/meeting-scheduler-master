@@ -1,6 +1,6 @@
-# Kloudless Meeting Scheduler
+#  Meeting Scheduler
 
-The Kloudless Meeting Scheduler is a JavaScript library that allows your users
+The Meeting Scheduler is a JavaScript library that allows your users
 to create and schedule meetings with each other. There are two main parts to the
 Meeting Scheduler:
 * First, the organizer sets up the meeting details: name, location, duration,
